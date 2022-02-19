@@ -1,5 +1,17 @@
 # android
 
+## Full backup & restaure with adb
+```
+apt install adb
+adb start-server
+
+# Backup
+adb backup -apk -shared -all -f backup-file.adb
+
+# Restore
+adb restore backup-file.abb
+```
+
 ## Samsung rescue mode (mode sans echec)
 * https://www.samsung.com/ch_fr/support/mobile-devices/comment-demarrer-mon-telephone-en-mode-securise/  
 
