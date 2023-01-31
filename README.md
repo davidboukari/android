@@ -1,5 +1,7 @@
 # android
 
+## Notification number on icones
+* -> parameters -> Home -> Bagde d'icone d'application
 
 ## Full backup & restaure with adb
 * https://www.moyens.net/android/comment-sauvegarder-vos-donnees-android-avec-adb-sur-ubuntu/
